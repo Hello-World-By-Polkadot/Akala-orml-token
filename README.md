@@ -4,19 +4,19 @@
 
 Runtime: [helloworld-dot/orml-token/orml-token-node/runtime at main · y12studio/helloworld-dot](https://github.com/y12studio/helloworld-dot/tree/main/orml-token/orml-token-node/runtime)
 
-pallet-template: mint token 101
+pallet-template:  Token Minting
 
 ![img](s1.png)
 
-orml-token pallet: query token 101
+orml-token pallet: Query Token
 
 ![img](s2.png)
 
-transfer token 101
+transfer token 
 
 ![img](s3.png)
 
-query token 101
+query token 
 
 ![img](s4.png)
 
