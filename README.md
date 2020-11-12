@@ -6,7 +6,7 @@ Runtime: [helloworld-dot/orml-token/orml-token-node/runtime at main · y12studio
 
 pallet-template:  Token Minting
 
-![img](s1.png)
+![img](S1.png)
 
 orml-token pallet: Query Token
 
